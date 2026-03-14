@@ -96,19 +96,19 @@ Sales show a consistent **end-of-year spike** each November–December, likely d
 ## 📉 Charts
 
 ### Sales by Region
-![Sales by Region](charts/chart1_sales_by_region.png)
+![Sales by Region](chart1_sales_by_region.png)
 
 ### Profit by Category
-![Profit by Category](charts/chart2_profit_by_category.png)
+![Profit by Category](chart2_profit_by_category.png)
 
 ### Monthly Sales Trend
-![Monthly Trend](charts/chart3_monthly_sales_trend.png)
+![Monthly Trend](chart3_monthly_sales_trend.png)
 
 ### Profit by Sub-Category
-![Sub-Category Profit](charts/chart4_profit_by_subcategory.png)
+![Sub-Category Profit](chart4_profit_by_subcategory.png)
 
 ### Top 10 Customers
-![Top Customers](charts/chart5_top10_customers.png)
+![Top Customers](chart5_top10_customers.png)
 
 ---
 
